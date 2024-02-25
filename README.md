@@ -1,5 +1,5 @@
 # Unity-Basic-Introduction
-Unity Basic Introduction Project
+Unity Basic Introduction Project\
 Detail:
 ChangeTextonClick.cs : change the text displayed on a Button component in Unity by accessing its Text component and updating its text property.
 CounterController.cs: similar to changing text on a Button, change the text displayed on a Text component in Unity by accessing its text property
